@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Documents\ViceCode.MapControl.WPF-master\Microsoft.Maps.MapControl.WPF\Microsoft.Maps.MapControl.WPF.csproj" />
+    <ProjectReference Include="..\Microsoft.Maps.MapControl.WPF\Microsoft.Maps.MapControl.WPF.csproj" />
   </ItemGroup>
 
   <ItemGroup>

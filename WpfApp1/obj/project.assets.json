@@ -590,8 +590,8 @@
     },
     "ViceCode.MapControl.WPF/2.0.0": {
       "type": "project",
-      "path": "../../../../Documents/ViceCode.MapControl.WPF-master/Microsoft.Maps.MapControl.WPF/Microsoft.Maps.MapControl.WPF.csproj",
-      "msbuildProject": "../../../../Documents/ViceCode.MapControl.WPF-master/Microsoft.Maps.MapControl.WPF/Microsoft.Maps.MapControl.WPF.csproj"
+      "path": "../Microsoft.Maps.MapControl.WPF/Microsoft.Maps.MapControl.WPF.csproj",
+      "msbuildProject": "../Microsoft.Maps.MapControl.WPF/Microsoft.Maps.MapControl.WPF.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -631,8 +631,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj": {
-              "projectPath": "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj"
+            "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj": {
+              "projectPath": "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj"
             }
           }
         }

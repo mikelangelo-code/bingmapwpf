@@ -4,14 +4,14 @@
     "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj": {
+    "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj",
+        "projectUniqueName": "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj",
         "projectName": "ViceCode.MapControl.WPF",
-        "projectPath": "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj",
+        "projectPath": "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj",
         "packagesPath": "C:\\Users\\Mykhailo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\obj\\",
+        "outputPath": "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj": {
-                "projectPath": "C:\\Users\\Mykhailo\\Documents\\ViceCode.MapControl.WPF-master\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj"
+              "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj": {
+                "projectPath": "C:\\Users\\Mykhailo\\source\\repos\\WpfApp1\\Microsoft.Maps.MapControl.WPF\\Microsoft.Maps.MapControl.WPF.csproj"
               }
             }
           }

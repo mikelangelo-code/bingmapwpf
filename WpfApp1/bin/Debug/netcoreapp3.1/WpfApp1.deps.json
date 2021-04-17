@@ -83,15 +83,6 @@
             "fileVersion": "4.700.19.56502"
           }
         }
-      },
-      "ViceCode.MapControl.WPF/2.0.0": {
-        "dependencies": {
-          "System.ServiceModel.Http": "4.7.0",
-          "System.ServiceModel.Primitives": "4.7.0"
-        },
-        "runtime": {
-          "Microsoft.Maps.MapControl.WPF.dll": {}
-        }
       }
     }
   },
@@ -177,11 +168,6 @@
       "sha512": "sha512-YUXIMO4kL1v6dUVptJGixAx/8Ai5trQzVn3gbk0mpwxh77kGAs+MyBRoHN/5ZoxtwNn4E1dq3N4rJCAgAUaiJA==",
       "path": "system.servicemodel.primitives/4.7.0",
       "hashPath": "system.servicemodel.primitives.4.7.0.nupkg.sha512"
-    },
-    "ViceCode.MapControl.WPF/2.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
